@@ -98,6 +98,10 @@ div#menu li
 {
 	color: #9bcfb2;
 }
+.color05
+{
+	color: #80cee1;
+}
 
 
 /*SLIKA*/
@@ -114,13 +118,6 @@ div#menu li
 		width: 640px;
 		object-fit: cover;
 }
-
-
-
-
-
-
-
 
 
 /*TABELA*/
