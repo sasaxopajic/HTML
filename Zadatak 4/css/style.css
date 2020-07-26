@@ -1,0 +1,41 @@
+body
+{
+  background: #f7e192
+}
+
+#container
+{
+  background: #ffffff;
+  padding: 20px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+table
+{
+  background: #dddddd;
+  border: 1px solid #cccccc;
+  padding: 3px;
+  border-collapse: collapse;
+}
+
+td
+{
+  background: #f5f4f2;
+  border: 1px solid #cccccc;
+  padding: 3px;
+}
+
+th
+{
+  background: #ece7d7;
+  border: 1px solid #cccccc;
+  padding: 3px;
+}
+
+.grid-container
+{
+  background: #dddddd;
+  padding: 10px;
+  margin: 20px auto;
+}
