@@ -118,6 +118,14 @@ div#menu li
 		width: 640px;
 		object-fit: cover;
 }
+.img03{
+	padding:1px;
+	border:1px solid #021a40;
+	background-color: #ff0;
+	height: 360px;
+	width: 480px;
+	object-fit: fill;
+}
 
 
 /*TABELA*/
